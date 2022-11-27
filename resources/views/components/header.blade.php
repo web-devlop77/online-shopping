@@ -28,7 +28,7 @@
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Add to cart</a></li>
+        <li><a href="#">Add to Cart</a></li>
         
       </ul>
     </div><!-- /.navbar-collapse -->
